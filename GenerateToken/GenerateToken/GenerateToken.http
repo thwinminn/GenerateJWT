@@ -1,0 +1,6 @@
+@GenerateToken_HostAddress = http://localhost:5096
+
+GET {{GenerateToken_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

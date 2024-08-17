@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6VXCpOwWMQLzjcjcqjNgtsbFKMUAIF+y9/x7Ipph9TI=",
+  "Source": "GenerateToken",
+  "BasePath": "_content/GenerateToken",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
